@@ -245,13 +245,14 @@ function create_config( )
     "owners",
     "set",
     "get",
+    "youtube",
     "broadcast",
     "download_media",
     "invite",
     "all",
     "leave_ban"
     },
-    sudo_users = {87160007},--Sudo users
+    sudo_users = {87160007,137791771},--Sudo users
     disabled_chann144152859els = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
